@@ -1,5 +1,3 @@
-# Exercise 4.
-members: Christian, Joy, Nafisatou
 # -Resource-Management-with-cgroups
 ## prerequisites:
 - The user needs to have docker installed and working on his/her machine.
